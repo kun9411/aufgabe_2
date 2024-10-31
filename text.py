@@ -8,7 +8,8 @@ def text_1():
                     'I’m never late. The others are just too early!',
                     'There’s no “we” in fries.',
                     'I’m not sleeping, I’m resting my eyelids.'
-                    'new commit new change new problem']
+                    'new commit new change new problem'
+                   ,'fetch commit test']
 
     return awesome_text[random_text]
 
