@@ -7,7 +7,8 @@ def text_1():
                     'I am nobody. Nobody is perfect. I am perfect.',
                     'I’m never late. The others are just too early!',
                     'There’s no “we” in fries.',
-                    'I’m not sleeping, I’m resting my eyelids.']
+                    'I’m not sleeping, I’m resting my eyelids.'
+                    'new commit new change new problem']
 
     return awesome_text[random_text]
 
