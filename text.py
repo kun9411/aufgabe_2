@@ -9,7 +9,8 @@ def text_1():
                     'There’s no “we” in fries.',
                     'I’m not sleeping, I’m resting my eyelids.'
                     'new commit new change new problem'
-                   ,'fetch commit test']
+                   ,'fetch commit test'
+                   ,'noch noch noch ']
 
     return awesome_text[random_text]
 
